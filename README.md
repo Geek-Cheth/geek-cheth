@@ -29,10 +29,10 @@
 ```javascript
 const cheth = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "C++", "HTML", "CSS"],
+    code: ["JavaScript", "HTML", "CSS", "Typescript", "C++", "Python"],
     currentFocus: "Full Stack Development",
     funFact: "I speak JavaScript fluently, still learning cat language 🐱",
-    challenge: "I am doing the #100DaysOfCode challenge focused on full stack development",
+    challenge: "O/L in March...",
     status: {
         learning: true,
         coding: true,
