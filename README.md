@@ -22,10 +22,16 @@
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
 </h2>
 
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=geek-cheth&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=00FFD1&currStreakNum=00D1FF&sideNums=00D1FF&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=FFFFFF" alt="GitHub Streak"/>
-  <img align="right" width="270" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=00D1FF&fire=00FFD1&currStreakLabel=00D1FF&sideLabels=00D1FF&currStreakNum=00FFD1&sideNums=00FFD1" alt="GitHub Streak"/>
+    </td>
+    <td width="40%">
+      <img width="100%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
 ```javascript
 const cheth = {
