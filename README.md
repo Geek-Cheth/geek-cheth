@@ -23,7 +23,7 @@
 </h2>
 
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true&border_radius=10&card_width=500"/>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=geek-cheth&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=00FFD1&currStreakNum=00D1FF&sideNums=00D1FF&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=FFFFFF" alt="GitHub Streak"/>
   <img align="right" width="270" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
@@ -130,7 +130,7 @@ const cheth = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 
 <div align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/heart-exclamation_2763-fe0f.png" alt="Heart" width="25" height="25" />
