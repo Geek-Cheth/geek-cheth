@@ -105,6 +105,22 @@ const cheth = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek-cheth&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
 </div>
 
+<br>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" />
+  GitHub Trophies
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" />
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geek-cheth&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&bg-color=0D1117" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/p06sYU8fg8nqXJ4Xy5/giphy.gif" width="35">
   Let's Connect
@@ -121,7 +137,7 @@ const cheth = {
   <a href="https://www.youtube.com/@cheth_unknown">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
-  <a href="https://dev.to/geek-cheth">
+  <a href="https://dev.to/geekcheth">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </p>
