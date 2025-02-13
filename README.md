@@ -108,9 +108,7 @@ const cheth = {
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" />
-  GitHub Trophies
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" />
+  🏆 GitHub Trophies 🏆
 </h2>
 
 <p align="center">
@@ -159,3 +157,4 @@ const cheth = {
   <sub>Built with ❤️ by Cheth</sub>
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/heart-exclamation_2763-fe0f.png" alt="Heart" width="25" height="25" />
 </div>
+````
