@@ -1,29 +1,30 @@
-
 <div align="center">
-  
-  <!-- Dynamic Header with Typing Effect -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Cheth;Full+Stack+Developer;Tech+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65" />
 
-  <!-- Profile Views Counter -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Cheth;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="55" height="55" />
+  
+  ![GitHub followers](https://img.shields.io/github/followers/geek-cheth?style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/geek-cheth?style=social)
   <img src="https://komarev.com/ghpvc/?username=geek-cheth&style=flat-square&color=00D1FF" alt="Profile Views">
   
-  <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Crafting%20Digital%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
 </div>
 
-<!-- About Me Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 <h2 align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    About Me
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+  About Me
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
 </h2>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true"/>
-  
-  <!-- Hacking GIF -->
-  <img align="right" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true&border_radius=10&card_width=500"/>
+  <img align="right" width="270" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
 ```javascript
@@ -41,55 +42,68 @@ const cheth = {
 };
 ```
 
-<!-- Tech Stack Section -->
-<h2 align="center">🚀 Technology Arsenal</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+</div>
 
-<details>
-<summary>Languages</summary>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  Technology Stack
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+</h2>
+
+<details open>
+<summary>🔥 Core Skills</summary>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs" />
 </p>
 </details>
 
 <details>
-<summary>Development Tools</summary>
+<summary>🎨 Frontend & Design</summary>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,webpack,babel" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,ps" />
 </p>
 </details>
 
 <details>
-<summary>Design Tools</summary>
+<summary>⚙️ Tools & Technologies</summary>
 <br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=git,firebase,vscode" />
 </p>
 </details>
 
-<!-- Contribution Stats -->
-<h2 align="center">📊 My Contribution Graph</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e5-a193-4a78-9d8c-dee2be1057b0.gif" width="700">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  My Contribution Graph
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
 [![Cheth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geek-cheth&theme=modern-lilac2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Statistics</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
+  GitHub Metrics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
+</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geek-cheth&show_icons=true&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00FFD1&text_color=ffffff&bg_color=0D1117" alt="Cheth's GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek-cheth&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
 </div>
 
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geek-cheth&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</p>
-
-<!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/p06sYU8fg8nqXJ4Xy5/giphy.gif" width="35">
+  Let's Connect
+  <img src="https://media.giphy.com/media/p06sYU8fg8nqXJ4Xy5/giphy.gif" width="35">
+</h2>
 
 <p align="center">
   <a href="https://chethina.vercel.app/raw/discord-id.txt">
@@ -101,21 +115,25 @@ const cheth = {
   <a href="https://www.youtube.com/@cheth_unknown">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
+  <a href="https://dev.to/geekcheth">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
 </p>
 
-<!-- Inspirational Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=modern-lilac2" alt="Random Dev Quote"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
 </div>
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
 </picture>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80"/>
 
----
+<div align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/heart-exclamation_2763-fe0f.png" alt="Heart" width="25" height="25" />
+  <sub>Built with ❤️ by Cheth</sub>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/heart-exclamation_2763-fe0f.png" alt="Heart" width="25" height="25" />
+</div>
