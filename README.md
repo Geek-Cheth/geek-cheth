@@ -36,7 +36,7 @@
 ```javascript
 const cheth = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "Typescript", "C++", "Python"],
+    code: ["JavaScript", "HTML", "CSS", "Typescript" ],
     currentFocus: "Full Stack Development",
     funFact: "I speak JavaScript fluently, still learning cat language 🐱",
     challenge: "O/L in March...",
