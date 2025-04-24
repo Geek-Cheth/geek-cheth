@@ -39,7 +39,7 @@ const cheth = {
     code: ["JavaScript", "HTML", "CSS", "Typescript" ],
     currentFocus: "Full Stack Development",
     funFact: "I speak JavaScript fluently, still learning cat language 🐱",
-    challenge: "O/L in March...",
+    challenge: "",
     status: {
         learning: true,
         coding: true,
