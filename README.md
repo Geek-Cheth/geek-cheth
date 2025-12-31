@@ -18,77 +18,61 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=180&section=header&text=Crafting%20Digital%20Solutions&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Code%20|%20Create%20|%20Innovate&descAlignY=55"/>
 </div>
 
-<h2 align="center">
-  👨‍💻 About Me
-</h2>
+---
+
+<h2 align="center"> 👨‍💻 System Terminal </h2>
 
 <div align="center">
-<pre align="left" style="background-color: #0D1117; color: #fff; border-radius: 10px; padding: 20px; width: 80%; display: inline-block;">
-<code><span style="color: #c9d1d9">const</span> <span style="color: #00D1FF">cheth</span> <span style="color: #c9d1d9">=</span> {
-    <span style="color: #79c0ff">pronouns</span>: <span style="color: #a5d6ff">"He"</span> | <span style="color: #a5d6ff">"Him"</span>,
-    <span style="color: #79c0ff">code</span>: [<span style="color: #a5d6ff">"Python"</span>, <span style="color: #a5d6ff">"JavaScript"</span>, <span style="color: #a5d6ff">"React"</span>, <span style="color: #a5d6ff">"C++"</span>],
-    <span style="color: #79c0ff">askMeAbout</span>: [<span style="color: #a5d6ff">"Web Dev"</span>, <span style="color: #a5d6ff">"Tech Stack"</span>, <span style="color: #a5d6ff">"Sri Lanka"</span>],
-    <span style="color: #79c0ff">currentFocus</span>: <span style="color: #a5d6ff">"Mastering Full Stack Architecture"</span>,
-    <span style="color: #79c0ff">funFact</span>: <span style="color: #a5d6ff">"I speak JavaScript fluently, still learning cat 🐱"</span>
-};</code>
+<table border="0">
+<tr>
+<td>
+<pre align="left">
+<b>geek-cheth@developer:~$</b> profile --status
+<br>
+<span style="color: #00D1FF">●</span> <b>Name:</b> Cheth
+<span style="color: #00FFD1">●</span> <b>Location:</b> Sri Lanka 🇱🇰
+<span style="color: #00D1FF">●</span> <b>Role:</b> Full Stack Developer
+<span style="color: #00FFD1">●</span> <b>Current_Focus:</b> Advanced React & AI Architectures
+<span style="color: #00D1FF">●</span> <b>Favorite_Stack:</b> MERN + Python
+<span style="color: #00FFD1">●</span> <b>Hobbies:</b> Chess & Competitive Programming
+<br>
+<b>geek-cheth@developer:~$</b> <blink>_</blink>
 </pre>
+</td>
+</tr>
+</table>
 </div>
 
 <br />
 
-<h2 align="center">
-  🛠️ Technology Stack
-</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,html,css,nodejs,mysql,firebase,git,figma,vscode,linux&perline=7&theme=dark" />
-  </a>
-</p>
-
-<br />
-<div align="center">---</div>
-<br />
-
-<h2 align="center">
-  ⚡ Stats & Activity
-</h2>
+<h2 align="center"> 🛠️ My Arsenal (Tech Stack) </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=geek-cheth&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=00D1FF&fire=00FFD1&currStreakLabel=00D1FF&sideLabels=00D1FF&currStreakNum=00FFD1&sideNums=00FFD1" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Frontend-00D1FF?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geek-cheth&show_icons=true&hide_border=true&title_color=00D1FF&icon_color=00FFD1&text_color=ffffff&bg_color=0D1117" alt="Cheth's GitHub Stats" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek-cheth&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,react,nodejs,mysql,firebase,git,figma,vscode,linux&perline=12&theme=dark" />
 </div>
 
 <br />
 
-<h2 align="center">
-  🏆 Trophies
-</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geek-cheth&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&bg-color=0D1117" alt="GitHub Trophies" />
-</p>
-
-<br />
-
-<h2 align="center">
-  📈 Contributions
-</h2>
-
-[![Cheth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geek-cheth&theme=modern-lilac2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
-<div align="center">---</div>
-<br />
-
-<h2 align="center">
-  🤝 Let's Connect
-</h2>
+<h2 align="center"> 🤝 Connect With Me </h2>
 
 <p align="center">
   <a href="https://chethina.vercel.app/raw/discord-id.txt">
@@ -105,7 +89,7 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer&text=Keep%20Coding%20|%20Keep%20Building&fontSize=24&fontAlignY=80&fontColor=ffffff"/>
 
 <div align="center">
   <sub>Built with ❤️ by Cheth</sub>
