@@ -84,7 +84,7 @@
   <a href="https://www.youtube.com/@cheth_unknown">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
-  <a href="https://dev.to/geekcheth">
+  <a href="https://dev.to/geek-cheth)">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </p>
